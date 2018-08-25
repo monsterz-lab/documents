@@ -39,3 +39,10 @@
 ## 언어
 - Go
 - SCALA
+
+---
+
+- back-end : https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#patterns
+- front-end : https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
+
