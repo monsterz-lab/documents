@@ -58,7 +58,7 @@
 - SCALA
 
 ## 개발자
-- 더 나은 개발자 되기*
+- 더 나은 개발자 되기* (https://www.slideshare.net/rockdoli/ss-63333165) 
 - 새로운 언어 배우기*
 - Jekyll Blog 만들기*
 - TIL*
