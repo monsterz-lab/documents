@@ -48,7 +48,7 @@
 
 ## Data & AI
 - 분산 컴퓨팅과 대용량 트래픽 처리
-- ELK 학습하기
+- ELK 학습하기 (http://bit.ly/EsStartKr)
 - Hadoop Ecosystem 이해
   - Kafka, HBase, Spark..
 - TensorFlow
