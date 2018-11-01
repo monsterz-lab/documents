@@ -31,6 +31,7 @@
   - serverside rendering, redux..
   - 주요 개념 및 getting started
 - UX의 기본 그리고 열정을 키워보기
+- 브라우저의 동작원리 - 장민석()
 
 ## Back-End
 - Java Garbage Collection*
