@@ -32,7 +32,7 @@
   - serverside rendering, redux..
   - 주요 개념 및 getting started
 - UX의 기본 그리고 열정을 키워보기
-- ~~브라우저의 동작원리~~ - 장민석()
+- ~~브라우저의 동작원리~~ - 장민석(https://www.slideshare.net/MinseokJang13/ss-121665896)
 
 ## Back-End
 - Java Garbage Collection*
@@ -54,7 +54,7 @@
 
 ## Data & AI
 - 분산 컴퓨팅과 대용량 트래픽 처리
-- ~~ELK 학습하기~~ - 장민석 (http://bit.ly/EsStartKr)
+- ~~ELK 학습하기~~ - 장민석 (https://www.slideshare.net/MinseokJang13/elastic-search-121664497 / 출처 : http://bit.ly/EsStartKr)
 - Hadoop Ecosystem 이해
   - Kafka, HBase, Spark..
 - TensorFlow
