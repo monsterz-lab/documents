@@ -5,8 +5,8 @@
   - ~~객체 지향의 이해 part1~~ - 정슬빈()
   - ~~객체 지향의 이해 part2~~ - 정슬빈()
   - 리팩토링
-  - ~~클린코드 part1~~ - 장민석()
-  - ~~클린코드 part2~~ - 장민석()
+  - ~~클린코드 part1~~ - 장민석(https://www.slideshare.net/MinseokJang13/part1-126979588)
+  - ~~클린코드 part2~~ - 장민석(https://www.slideshare.net/MinseokJang13/part2-126979676)
 - Agile Practice 알아보기 & 리프레시
 - 함수형 프로그래밍 학습
   - 함수형 프로그래밍의 개념과 장점, 각광받는 이유..
